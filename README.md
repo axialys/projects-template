@@ -7,13 +7,16 @@
 ## Stack :hammer_and_wrench:
 
 *Technical stack*
+* [Techno 1](https://github.com/axialys/projects-template/)
+* [Techno 2](https://github.com/axialys/projects-template/)
+* ...
 
 ## Requirements :warning:
 
 *All needed tools to work on the project*
 
-* Depency 1
-* Depency 2
+* [Dependency 1](https://github.com/axialys/projects-template/)
+* [Dependency 2](https://github.com/axialys/projects-template/)
 * ...
 
 ## Installation :package:
